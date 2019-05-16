@@ -12,7 +12,7 @@
     "fullstack",
     "javascript"
   ],
-  "author": "giannis antonopoulos",
+  "author": "giannis antonopouls",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
